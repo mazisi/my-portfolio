@@ -3,7 +3,7 @@
         <div class="container position-relative z-1 border-top border-1 pb-2 pt-4">
             <div class="text-center">
                 <a class="d-flex main-logo align-items-center justify-content-center mb-3" href="#">
-                    <img src="{{ asset('imgs/home/template/favicon.svg') }}" alt="zelio" />
+                    <img src="{{ asset('imgs/home/template/favicon.svg') }}" alt="mazisi" />
                     <span class="fs-4 ms-2">mazisi.dev</span>
                 </a>
                 <div class="d-flex justify-content-center gap-3">

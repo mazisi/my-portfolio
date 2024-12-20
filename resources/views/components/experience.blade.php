@@ -78,7 +78,7 @@
                         </div>
                     </div>
                 </div>
-                <img class="position-absolute top-0 start-0 z-0" src="{{ asset('imgs/home/services/bg.png') }}" alt="zelio" />
+                <img class="position-absolute top-0 start-0 z-0" src="{{ asset('imgs/home/services/bg.png') }}" alt="mazisi" />
             </div>
         </div>
     </div>

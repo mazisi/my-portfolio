@@ -117,7 +117,7 @@
     <div class="mobile-header-wrapper-inner">
         <div class="mobile-header-logo">
             <a class="d-flex main-logo align-items-center d-inline-flex" href="index.html">
-                <img src="{{ asset('imgs/footer-1/logo.svg') }}" alt="zelio" />
+                <img src="{{ asset('imgs/footer-1/logo.svg') }}" alt="mazisi" />
                 <span class="fs-4 ms-2 text-dark">mazisi.dev</span>
             </a>
             <div class="burger-icon burger-icon-white border rounded-3">

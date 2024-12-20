@@ -5,9 +5,9 @@
                 <div class="row align-items-end py-60">
                     <div class="col-lg-5 ps-lg-5 text-lg-start text-center">
                         <div class="position-relative mb-lg-0 mb-5">
-                            <img src="{{ asset('imgs/mazisi.jpg') }}" alt="zelio" class="hexagon-image" />
+                            <img src="{{ asset('imgs/msesh.jpg') }}" alt="mazisi" class="hexagon-image" />
                             <div class="position-absolute end-0 top-100 translate-middle-y icon-decorate">
-                                <img src="{{ asset('imgs/home/hero/icon.svg') }}" alt="zelio" />
+                                <img src="{{ asset('imgs/home/hero/icon.svg') }}" alt="mazisi" />
                             </div>
                         </div>
                     </div>
@@ -75,23 +75,10 @@
         </div>
     </div>
     <div class="background position-absolute top-0 start-0 w-100 h-100">
-        <img class="bg-w" src="{{ asset('imgs/home/hero/bg.png') }}" alt="zelio" />
-        <img class="bg-d" src="{{ asset('imgs/home/hero/bg-dark.png') }}" alt="zelio" />
+        <img class="bg-w" src="{{ asset('imgs/home/hero/bg.png') }}" alt="mazisi" />
+        <img class="bg-d" src="{{ asset('imgs/home/hero/bg-dark.png') }}" alt="mazisi" />
     </div>
     <style>
-        .hexagon-image {
-            width: 500px; /* Adjust size as needed */
-            height: 500px; /* Ensure it's square */
-            object-fit: cover; /* Ensures the image scales correctly */
-            clip-path: polygon(
-                50% 0%, 
-                90% 25%, 
-                90% 75%, 
-                50% 100%, 
-                10% 75%, 
-                10% 25%
-            );
-            border-radius: 15%; /* For slightly curved edges */
-            }
+        
     </style>
 </section>

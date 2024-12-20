@@ -81,7 +81,17 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="text-center pt-60">
+
+                        <div class="row justify-content-center position-relative button-project bg-900 pt-4">
+                        <a href="work" class="icon_hover position-relative z-1 icon-shape icon_150 border-linear-2 rounded-circle position-relative overflow-hidden bg-white hover-up">
+                            <span class="icon-shape icon-md bg-linear-2 rounded-circle position-absolute bottom-0 end-0"></span>
+                            <p class="m-0 fs-7 fw-bold text-capitalize position-absolute top-50 start-50 translate-middle">
+                                View More
+                                <i class="ri-arrow-right-up-line fs-7"></i>
+                            </p>
+                        </a>
+                        </div>
+                        <div class="text-center pt-4">
                             <p class="text-300">
                                 Excited to take on <span class="text-dark">new projects</span> and collaborate. <br />
                                 Let's chat about your ideas. <a href="#contact" class="text-primary-2">Reach out!</a>
@@ -89,7 +99,7 @@
                         </div>
                     </div>
                 </div>
-                <img class="position-absolute top-0 start-0 z-0" src="{{ asset('imgs/home/services/bg.png') }}" alt="zelio" />
+                <img class="position-absolute top-0 start-0 z-0" src="{{ asset('imgs/home/services/bg.png') }}" alt="mazisi" />
             </div>
         </div>
     </div>

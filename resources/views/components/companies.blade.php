@@ -145,7 +145,7 @@
                                     <div class="circle-1 position-relative z-0">
                                         <div class="circle-2 position-absolute top-50 start-50 translate-middle z-1">
                                             <div class="position-absolute top-50 start-50 translate-middle z-2">
-                                                <img class="w-100 h-100 rounded-circle" src="{{ asset('imgs/mazisi.jpg') }}" alt="zelio" />
+                                                <img class="w-100 h-100 rounded-circle" src="{{ asset('imgs/msesh.jpg') }}" alt="mazisi" />
                                                 <svg class="text-primary-2 position-absolute bottom-0 end-0" xmlns="http://www.w3.org/2000/svg" width="9" height="9" viewBox="0 0 5 6" fill="none">
                                                     <circle cx="2.5" cy="3" r="2.5" fill="#A8FF53" />
                                                 </svg>
